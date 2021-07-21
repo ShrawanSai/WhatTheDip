@@ -125,7 +125,7 @@ In both cases, it's so been the case that when Branson does well, So does Airtel
 
 It is very possible that both of these may have been coincidences. And to verify this, would be a long tedious task.
 
-Automating this procedure (with more such cases) so that the hypothesis that Branson has some sway over how Airtel fairs is the secondary part of this project.
+Automating this procedure (of proving more such cases) so that the hypothesis that Branson has some sway over how Airtel fairs is the secondary part of this project.
 
 > Note: I am in no way saying that this is an actual relation that works. it's just an example lol
 
